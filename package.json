@@ -13,10 +13,10 @@
   "author": "NeoTRAN",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^9.2.14"
+    "commander": "^12.0.0"
   },
   "devDependencies": {
-    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.11.17",
     "typescript": "^5.3.3"
   }
 }
